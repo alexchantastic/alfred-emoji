@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.github.jsumners.alfred-emoji</string>
+	<string>com.alexchantastic.alfred-emoji</string>
 	<key>connections</key>
 	<dict>
 		<key>05450F7C-3D4F-45BF-ACA3-9422EF54EFDD</key>
@@ -62,13 +62,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>James Sumners</string>
+	<string>Alex Chan</string>
 	<key>description</key>
 	<string>Copy emoji to the clipboard</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Emoji search</string>
+	<string>Emoji Search</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -204,8 +204,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>
-# Emoji Workflow
+	<string># Emoji Workflow
 
 Type an emoji name, or alias, to find it and copy it.
 
@@ -226,8 +225,7 @@ This workflow will automatically check for updates at most once per day. If a ne
 ## Support
 
 For assistance with issues, or to submit a feature request, please visit:
-https://github.com/jsumners/alfred-emoji/issues
-  </string>
+https://github.com/jsumners/alfred-emoji/issues</string>
 	<key>uidata</key>
 	<dict>
 		<key>05450F7C-3D4F-45BF-ACA3-9422EF54EFDD</key>
@@ -315,9 +313,11 @@ https://github.com/jsumners/alfred-emoji/issues
 			<string>skin_tone</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>2.2.0</string>
+	<string>3.0.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/jsumners/alfred-emoji</string>
+	<string>https://github.com/alexchantastic/alfred-emoji</string>
 </dict>
 </plist>
